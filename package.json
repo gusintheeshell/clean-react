@@ -12,6 +12,7 @@
   "author": "Gustavo Barbosa",
   "license": "ISC",
   "devDependencies": {
+    "@types/faker": "^6.6.9",
     "@types/jest": "^29.2.0",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "eslint": "^8.25.0",
@@ -20,6 +21,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.1.0",
     "eslint-plugin-standard": "^5.0.0",
+    "faker": "^6.6.6",
     "git-commit-msg-linter": "^4.2.1",
     "husky": "^8.0.1",
     "jest": "^29.2.1",
